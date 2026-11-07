@@ -16,6 +16,7 @@ for x in range(3):
     if numero_maquina == numero_usuario:
         print('Voce tem ' )
         print('VOCÊ GANHOU 5K !!')
+        break
     else:
         print('VOCÊ ERROU FEIO !!!')
         if chances == 0: 

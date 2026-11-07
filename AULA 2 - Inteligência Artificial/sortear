@@ -1,0 +1,10 @@
+import random 
+
+
+print('sorteador de nomes ')
+
+
+
+sortear_nomes  =  ['Ana','Virginia','Marcos']
+sorteador =  random.choices(sortear_nomes)
+print(sorteador)
